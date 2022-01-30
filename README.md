@@ -12,16 +12,17 @@ Example for video and log files of Formation_Establishment_Task
 #### Directories
 | Files in 'Logs/Formation_Establishment_Logs/' directory | Date of creation |
 | ------ | ------ |
-| 20220129192256.pkl  | Sat 29 Jan 2022 19:22:56 |
 | 20220129192804.pkl | Sat 29 Jan 2022 19:28:04 |
+| 20220129192256.pkl  | Sat 29 Jan 2022 19:22:56 |
 | 20220129193334.pkl | Sat 29 Jan 2022 19:33:34|
 
 
 | Files in 'Videos/Formation_Establishment_Videos/' directory | Date of creation |
 | ------ | ------ |
+| BB5A0874.MOV | Sat 29 Jan 2022 19:35:05|
 | BB5A0872.MOV  | Sat 29 Jan 2022 19:23:01 |
 | BB5A0873.MOV | Sat 29 Jan 2022 19:28:31 |
-| BB5A0874.MOV | Sat 29 Jan 2022 19:35:05|
+
 
 #### Command
 ```sh
@@ -39,15 +40,14 @@ Adding the video and log files of Formation_Switching_Task into the same .xlsx f
 | Files in 'Logs/Formation_Switching_Logs/' directory | Date of creation |
 | ------ | ------ |
 | 20220129192256.pkl  | Sat 29 Jan 2022 19:22:56 |
-| 20220129192804.pkl | Sat 29 Jan 2022 19:28:04 |
 | 20220129193334.pkl | Sat 29 Jan 2022 19:33:34|
-
+| 20220129192804.pkl | Sat 29 Jan 2022 19:28:04 |
 
 | Files in 'Videos/Formation_Switching_Videos/' directory | Date of creation |
 | ------ | ------ |
-| BB5A0872.MOV  | Sat 29 Jan 2022 19:23:01 |
 | BB5A0873.MOV | Sat 29 Jan 2022 19:28:31 |
 | BB5A0874.MOV | Sat 29 Jan 2022 19:35:05|
+| BB5A0872.MOV  | Sat 29 Jan 2022 19:23:01 |
 
 #### Command
 ```sh
