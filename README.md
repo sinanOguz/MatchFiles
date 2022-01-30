@@ -7,7 +7,7 @@ Multiple worksheet creation in the same .xlsx file avaliable.
 python3 matchFiles.py [path/Directory_1] [path/Directory_2][fileName][worksheetName]
 ```
 # Example 1 -- Creating the .xlsx file for the first time
-Related video and log files for Formation_Establishment_Task
+Example for video and log files of Formation_Establishment_Task
 
 #### Directories
 | Files in 'Logs/Formation_Establishment_Logs/' directory | Date of creation |
@@ -34,7 +34,7 @@ python3 matchFiles.py  Logs/Formation_Establishment_Logs/   Videos/Formation_Est
 ![image1](https://drive.google.com/uc?export=view&id=1xkqDgYXrB-bEDgqUNM2Jb48tqDCZw1ru)
 
 # Example 2 -- Creating a new worksheet in the same .xlsx file 
-Related video and log files for Formation_Switching_Task
+Adding the video and log files of Formation_Switching_Task into the same .xlsx file
 #### Directories
 | Files in 'Logs/Formation_Switching_Logs/' directory | Date of creation |
 | ------ | ------ |
