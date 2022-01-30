@@ -31,7 +31,7 @@ python3 matchFiles.py  Logs/Formation_Establishment_Logs/   Videos/Formation_Est
 > On the terminal screen you will see the following:
 `A new spreadsheed is created.` 
 
-![](https://drive.google.com/file/d/1xkqDgYXrB-bEDgqUNM2Jb48tqDCZw1ru/view?usp=sharing)
+![image1](https://drive.google.com/file/d/1xkqDgYXrB-bEDgqUNM2Jb48tqDCZw1ru/view?usp=sharing)
 
 # Example 2 -- Creating a new worksheet in the same .xlsx file 
 Related video and log files for Formation_Switching_Task
@@ -57,4 +57,4 @@ python3 matchFiles.py  Logs/Formation_Switching_Logs/   Videos/Formation_Switchi
 > On the terminal screen you will see the following:
 `The spreadsheet has already been created. Overwriting the spreadsheet.` 
 
-![](https://drive.google.com/file/d/1RSPbHrGeOPK87qlbxDiWlirdlq72SWbM/view?usp=sharing)
+![image2](https://drive.google.com/file/d/1RSPbHrGeOPK87qlbxDiWlirdlq72SWbM/view?usp=sharing)
