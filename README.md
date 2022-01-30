@@ -1,5 +1,5 @@
 # MatchFiles
-Sorts and matches given files in two different directories by creation date, then writes the names of the sorted and matched files into an .xlsx file.
+Sorts and matches given files in two different directories by creation date in ascending order, then writes the names of the sorted and matched files into an .xlsx file.
 Multiple worksheet creation in the same .xlsx file avaliable.
 
 # Usage
